@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915070526398",
+    "project_id": "kandygo-1234",
+    "storage_bucket": "kandygo-1234.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915070526398:android:368b593a87044a7c7c0fef",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZcJjiUj2F-mPfUMFwVA2b2sJTGHk6ASE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
